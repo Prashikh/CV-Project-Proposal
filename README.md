@@ -13,11 +13,9 @@ Normal color vision requires the use of specialized receptor cells called cones,
 There are three types of cones, termed red, blue, and green, which enable people to see a wide spectrum of colors. An abnormality, or deficiency, of any of the types of cones will result in abnormal color vision.
 Dichromats and anomalous trichromats exist again in three different types according to the missing cone or in the latter case of its malfunctioning.
 
-Tritanopia/Tritanomaly: Missing/malfunctioning S-cone (blue).
-
-Deuteranopia/Deuteranomaly: Missing/malfunctioning M-cone (green).
-
-Protanopia/Protanomaly: Missing/malfunctioning L-cone (red).
+1. Tritanopia/Tritanomaly: Missing/malfunctioning S-cone (blue).
+2. Deuteranopia/Deuteranomaly: Missing/malfunctioning M-cone (green).
+3. Protanopia/Protanomaly: Missing/malfunctioning L-cone (red).
 
 ![what-color-blind-people-see-different-types-blindness-9](https://user-images.githubusercontent.com/36117814/94381889-c9af3100-0108-11eb-8c31-ec10b10ca6d4.jpg)
 
