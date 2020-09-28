@@ -7,7 +7,7 @@ Our eyes perceive everything around us by receiving the lights being reflected b
 - Cones: These are active at higher light levels (photopic vision), are capable of color vision and are responsible for high spatial acuity.
 - Rods: These are responsible for vision at low light levels (scotopic vision). They do not mediate color vision, and have a low spatial acuity.
 
-![eye](https://user-images.githubusercontent.com/36117814/94383554-6f18d380-010e-11eb-8477-bf2d344dfd48.gif?style=centerme)
+![eye](https://user-images.githubusercontent.com/36117814/94383554-6f18d380-010e-11eb-8477-bf2d344dfd48.gif?style=center)
 
 Normal color vision requires the use of specialized receptor cells called cones, which are located in the retina of the eye. 
 There are three types of cones, termed red, blue, and green, which enable people to see a wide spectrum of colors. An abnormality, or deficiency, of any of the types of cones will result in abnormal color vision.
