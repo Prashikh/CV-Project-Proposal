@@ -1,7 +1,5 @@
 ## Welcome to Our Computer Vision Project
 
-You can use the [editor on GitHub](https://github.com/Prashikh/CVProjectProposal/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 # Problem Statement
 ## Goal
 The main goal of our project is to create a program that will convert a colored image to a version that will allow people with colorblindness to see. The three types of color blindness that we are focusing on are Deuteranopia(where green looks more red), Protanopia(where red looks more green), and Tritanopia(for blue/yellow colorblindness). The current plan to do this is to modify the input pictures that come in with the appropriate filter. If there is time at the end, we would like to implement real time output and to be able to modify videos as well. 
