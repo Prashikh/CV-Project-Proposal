@@ -1,6 +1,21 @@
 ## Welcome to Our Computer Vision Project
 
 # Introduction
+## What is Color Blindness?
+Well in simple words, its the inability of ones eyes to truly see the color the way it should.
+Our eyes perceive everything around us by receiving the lights being reflected by the objects on the retina of the eye. The retina itself is covered with special nerve cells that contain pigments that react to light: 
+- Cones: These are active at higher light levels (photopic vision), are capable of color vision and are responsible for high spatial acuity.
+- Rods: These are responsible for vision at low light levels (scotopic vision). They do not mediate color vision, and have a low spatial acuity.
+
+![eye](https://user-images.githubusercontent.com/36117814/94383554-6f18d380-010e-11eb-8477-bf2d344dfd48.gif)
+
+Normal color vision requires the use of specialized receptor cells called cones, which are located in the retina of the eye. 
+There are three types of cones, termed red, blue, and green, which enable people to see a wide spectrum of colors. An abnormality, or deficiency, of any of the types of cones will result in abnormal color vision.
+Dichromats and anomalous trichromats exist again in three different types according to the missing cone or in the latter case of its malfunctioning.
+
+Tritanopia/Tritanomaly: Missing/malfunctioning S-cone (blue).
+Deuteranopia/Deuteranomaly: Missing/malfunctioning M-cone (green).
+Protanopia/Protanomaly: Missing/malfunctioning L-cone (red).
 
 ![what-color-blind-people-see-different-types-blindness-9](https://user-images.githubusercontent.com/36117814/94381889-c9af3100-0108-11eb-8c31-ec10b10ca6d4.jpg)
 
